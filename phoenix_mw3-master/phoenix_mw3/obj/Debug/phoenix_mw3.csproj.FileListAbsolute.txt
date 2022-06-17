@@ -1,0 +1,3 @@
+C:\Users\conno\OneDrive\Desktop\phoenix_mw3-master\phoenix_mw3\obj\Debug\phoenix_mw3.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Desktop\phoenix_mw3-master\phoenix_mw3\obj\Debug\phoenix_mw3.csproj.SuggestedBindingRedirects.cache
+C:\Users\conno\OneDrive\Desktop\phoenix_mw3-master\phoenix_mw3\obj\Debug\phoenix_mw3.csproj.CoreCompileInputs.cache
